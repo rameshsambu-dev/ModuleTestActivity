@@ -1,0 +1,2 @@
+include ':app', ':gwlib', ':gwlibrary', ':qwmodule'
+rootProject.name='ModuleTestActivity'
